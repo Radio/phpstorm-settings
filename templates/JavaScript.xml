@@ -1,0 +1,43 @@
+<templateSet group="JavaScript">
+  <template name="log" value="console.log($END$);" description="Console log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="error" value="var $VAR_NAME$ = new Error('$MESSAGE$');&#10;$VAR_NAME$.status = $STATUS$;" description="Error object" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="" defaultValue="&quot;error&quot;" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STATUS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="inj" value="/* @ngInject */" description="ngInject comment." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="iferr" value="if ($ERR$) return $CALLBACK$($ERR$);" description="Error handling" toReformat="false" toShortenFQNames="true">
+    <variable name="ERR" expression="&quot;err&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="CALLBACK" expression="&quot;callback&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="me" value="module.exports = $END$" description="Inserts 'module.exports = ' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="r" value="require('$END$');" description="require()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="req" value="const $VAR$ = require('$END$');" description="const  = require()" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

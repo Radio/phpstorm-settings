@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ActionMacroManager">
+    <macro name="auto-fix-translations">
+      <action id="EditorCopy" />
+      <action id="Replace" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <action id="$SelectAll" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <action id="$SelectAll" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <action id="$SelectAll" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <action id="$SelectAll" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <action id="$SelectAll" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <action id="$SelectAll" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <action id="$SelectAll" />
+      <shortuct text="control V" />
+      <action id="EditorCopy" />
+      <action id="$SelectAll" />
+      <shortuct text="control V" />
+    </macro>
+  </component>
+</application>
+

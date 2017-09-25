@@ -1,0 +1,6 @@
+<application>
+  <component name="CrucibleSettings">
+    <option name="SERVER_URL" value="https://fecru.symmetrics.de" />
+    <option name="USERNAME" value="max.gopey" />
+  </component>
+</application>
