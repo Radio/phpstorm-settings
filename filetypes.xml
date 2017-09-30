@@ -6,7 +6,7 @@
       <mapping ext="ms" type="HTML" />
       <mapping ext="bson" type="JSON" />
       <mapping pattern="bot" type="JavaScript" />
-      <mapping pattern="mage---fe4_CONFIG_GLOBAL_WEBSITES_0_" type="PLAIN_TEXT" />
+      <mapping pattern="InvalidStateException" type="PLAIN_TEXT" />
       <mapping pattern="tx_symmetrics_cache" type="PLAIN_TEXT" />
       <mapping pattern="mage---a58_Zend_LocaleC_en_US_day_gregorian_format_wide_mon" type="PLAIN_TEXT" />
       <mapping pattern=".qgignore" type="PLAIN_TEXT" />
@@ -15,15 +15,16 @@
       <mapping pattern="mage---a58_DB_PDO_MYSQL_DDL_core_config_data_1" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern="mage---fe4_CONFIG_GLOBAL_ADMIN" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="30" type="PLAIN_TEXT" />
       <mapping pattern="mage---fe4_CONFIG_GLOBAL_STORES_ADMIN" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="mage---internal-metadatas---fe4_CONFIG_GLOBAL_ADMIN" type="PLAIN_TEXT" />
       <mapping pattern="tx_symmetrics_variable_cache" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="update.local" type="PLAIN_TEXT" />
       <mapping pattern="tx_ttnews_helpers" type="PLAIN_TEXT" />
       <mapping pattern=".pkgignore" type="PLAIN_TEXT" />
-      <mapping pattern="mage---internal-metadatas---fe4_CONFIG_GLOBAL_ADMIN" type="PLAIN_TEXT" />
+      <mapping pattern="mage---fe4_CONFIG_GLOBAL_WEBSITES_0_" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="update.orig" type="PLAIN_TEXT" />
       <mapping pattern="richandroyal" type="PLAIN_TEXT" />
@@ -35,12 +36,10 @@
       <mapping pattern="mage---internal-metadatas---fe4_CONFIG_GLOBAL_STORES" type="PLAIN_TEXT" />
       <mapping pattern="crontab/richandroyal" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
-      <mapping pattern="InvalidStateException" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="tree" type="PLAIN_TEXT" />
       <mapping ext="jtl" type="PLAIN_TEXT" />
