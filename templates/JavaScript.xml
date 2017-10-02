@@ -40,4 +40,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="nolhp" value="/**&#10; * Copyright © 2017 Highpine. All rights reserved.&#10; *&#10; * @author    Max Gopey &lt;gopeyx@gmail.com&gt;&#10; * @copyright 2017 Highpine&#10; * @license   https://opensource.org/licenses/MIT  MIT License&#10; */" description="Notice of License for Highpine" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
