@@ -4,6 +4,9 @@
     <extensionMap>
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="ms" type="HTML" />
+      <mapping pattern=".eslintrc-reset" type="JSON" />
+      <mapping pattern=".eslintrc-symmetrics" type="JSON" />
+      <mapping pattern=".eslintrc-magento" type="JSON" />
       <mapping ext="bson" type="JSON" />
       <mapping pattern="bot" type="JavaScript" />
       <mapping pattern="Taskfile" type="PHP" />
