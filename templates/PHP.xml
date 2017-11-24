@@ -45,15 +45,8 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="nol" value="/**&#10; * Magento&#10; *&#10; * NOTICE OF LICENSE&#10; *&#10; * This source file is subject to the Open Software License (OSL 3.0)&#10; * that is bundled with this package in the file LICENSE.txt.&#10; * It is also available through the world-wide-web at this URL:&#10; * http://opensource.org/licenses/osl-3.0.php&#10; * If you did not receive a copy of the license and are unable to&#10; * obtain it through the world-wide-web, please send an email&#10; * to license@magentocommerce.com so we can send you a copy immediately.&#10; *&#10; * @category  Cgi&#10; * @package   Cgi_$module$&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; * @link      http://www.de.cgi.com/&#10; */" description="Notice of License" toReformat="false" toShortenFQNames="true">
+  <template name="nolm1" value="/**&#10; * Magento&#10; *&#10; * NOTICE OF LICENSE&#10; *&#10; * This source file is subject to the Open Software License (OSL 3.0)&#10; * that is bundled with this package in the file LICENSE.txt.&#10; * It is also available through the world-wide-web at this URL:&#10; * http://opensource.org/licenses/osl-3.0.php&#10; * If you did not receive a copy of the license and are unable to&#10; * obtain it through the world-wide-web, please send an email&#10; * to license@magentocommerce.com so we can send you a copy immediately.&#10; *&#10; * @category  Cgi&#10; * @package   Cgi_$module$&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; * @link      http://www.de.cgi.com/&#10; */" description="Notice of License" toReformat="false" toShortenFQNames="true">
     <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="ch" value="/**&#10; * $classDescrition$&#10; *&#10; * @category  Cgi&#10; * @package   Cgi_$module$&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; * @link      http://www.de.cgi.com/&#10; */" description="Class Header for Magento" toReformat="false" toShortenFQNames="true">
-    <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="classDescrition" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -61,23 +54,6 @@
   <template name="log" value="Mage::log($what$, null, '$where$');" description="Mage Log" toReformat="false" toShortenFQNames="true">
     <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="where" expression="" defaultValue="max.log" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="nolt3" value="/**&#10; * Typo3&#10; *&#10; * For the full copyright and license information, please read the&#10; * LICENSE.txt file that was distributed with this source code.&#10; *&#10; * @category  Cgi&#10; * @package   Symmetrics&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/GPL-2.0  GNU General Public License, version 2 (GPL-2.0)&#10; */" description="Notice of License for Typo3" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="cht3" value="/**&#10; * $classDescrition$&#10; *&#10; * @category  Cgi&#10; * @package   Symmetrics&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/GPL-2.0  GNU General Public License, version 2 (GPL-2.0)&#10; */" description="Class Header for Typo3" toReformat="false" toShortenFQNames="true">
-    <variable name="classDescrition" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="chm2" value="/**&#10; * $classDescrition$&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @link      http://www.de.cgi.com/&#10; */" description="Class Header for Magento 2" toReformat="false" toShortenFQNames="true">
-    <variable name="classDescrition" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -104,18 +80,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="nolm2" value="/**&#10; * Copyright © 2016 CGI. All rights reserved.&#10; * See COPYING.txt for license details.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; */" description="Notice of License for Magento 2" toReformat="false" toShortenFQNames="true">
+  <template name="nolm2" value="/**&#10; * Copyright © 2017 CGI. All rights reserved.&#10; * See COPYING.txt for license details.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; * @link      http://www.de.cgi.com/&#10; */" description="Notice of License for Magento 2" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="nol7" value="/**&#10; * Copyright © 2016 CGI. All rights reserved.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; */" description="Notice of License for PHP 7" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="ch7" value="/**&#10; * $classDescrition$&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @link      http://www.de.cgi.com/&#10; */" description="Class Header for PHP 7" toReformat="false" toShortenFQNames="true">
-    <variable name="classDescrition" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="nol" value="/**&#10; * Copyright © 2017 CGI. All rights reserved.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; * @link      http://www.de.cgi.com/&#10; */" description="Notice of License for PHP 7" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
