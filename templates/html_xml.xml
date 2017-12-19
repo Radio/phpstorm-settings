@@ -40,14 +40,13 @@
     </context>
   </template>
   <template name="mg" value="Max Gopey &lt;max.gopey@symmetrics.de&gt;" description="Max Gopey &lt;@&gt;" toReformat="false" toShortenFQNames="true" />
-  <template name="nol" value="&lt;!--&#10;/**&#10; * Magento&#10; *&#10; * NOTICE OF LICENSE&#10; *&#10; * This source file is subject to the Open Software License (OSL 3.0)&#10; * that is bundled with this package in the file LICENSE.txt.&#10; * It is also available through the world-wide-web at this URL:&#10; * http://opensource.org/licenses/osl-3.0.php&#10; * If you did not receive a copy of the license and are unable to&#10; * obtain it through the world-wide-web, please send an email&#10; * to license@magentocommerce.com so we can send you a copy immediately.&#10; *&#10; * @category  Cgi&#10; * @package   Cgi_$module$&#10; * @author    symmetrics - a CGI Group brand &lt;info@symmetrics.de&gt;&#10; * @copyright 2015 symmetrics - a CGI Group brand&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; * @link      http://www.symmetrics.de/&#10; */&#10; --&gt;" description="Notice of License" toReformat="false" toShortenFQNames="true">
-    <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="nol" value="&lt;!--&#10;/**&#10; * Copyright © 2017 CGI. All rights reserved.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; * @link      http://www.de.cgi.com/&#10; */&#10; --&gt;" description="Notice of License" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="nolm2" value="&lt;!--&#10;/**&#10; * Copyright © 2016 CGI. All rights reserved.&#10; * See COPYING.txt for license details.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2016 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; */&#10; --&gt;" description="Notice of License for Magento 2" toReformat="false" toShortenFQNames="true">
+  <template name="nolm2" value="&lt;!--&#10;/**&#10; * Copyright © 2016 CGI. All rights reserved.&#10; * See COPYING.txt for license details.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; */&#10; --&gt;" description="Notice of License for Magento 2" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="XML" value="true" />
