@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*cache*</mask>
@@ -17,7 +16,6 @@
       <mask>*.php</mask>
       <mask>*.json</mask>
       <mask>*.xl</mask>
-      <mask>.xml</mask>
       <mask>t.xml</mask>
       <mask>tas.xml</mask>
       <mask>task.xml</mask>
@@ -25,7 +23,6 @@
       <mask>di.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.xml</mask>
       <mask>c</mask>
       <mask>com</mask>
       <mask>compos</mask>
@@ -34,6 +31,10 @@
       <mask>composer.js</mask>
       <mask>composer.jso</mask>
       <mask>composer.json</mask>
+      <mask>.</mask>
+      <mask>.x</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
