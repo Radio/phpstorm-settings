@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>upgrade-*.php</mask>
       <mask>*.phtml</mask>
       <mask>*.php</mask>
       <mask>*.json</mask>
@@ -34,6 +33,7 @@
       <mask>fields.xml</mask>
       <mask>fieldse.xml</mask>
       <mask>fieldset.xml</mask>
+      <mask>header.xml</mask>
     </recentFileMasks>
   </component>
 </application>
