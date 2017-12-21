@@ -46,7 +46,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="nolm2" value="&lt;!--&#10;/**&#10; * Copyright © 2016 CGI. All rights reserved.&#10; * See COPYING.txt for license details.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; */&#10; --&gt;" description="Notice of License for Magento 2" toReformat="false" toShortenFQNames="true">
+  <template name="nolm2" value="&lt;!--&#10;/**&#10; * Copyright © 2017 CGI. All rights reserved.&#10; * See COPYING.txt for license details.&#10; *&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; * @copyright 2017 CGI&#10; * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)&#10; * @link      http://www.de.cgi.com/&#10; */&#10; --&gt;" description="Notice of License for Magento 2" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="XML" value="true" />
