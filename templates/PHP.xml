@@ -90,4 +90,15 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="nolb" value="/**&#10; * $DESCRIPTION$&#10; *&#10; * @copyright Copyright © 2018 Brandung GmbH &amp; Co. KG. All rights reserved.&#10; * @author    CGI &lt;info.de@cgi.com&gt;&#10; */&#10;" description="Notice of License for Brandung" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="st" value="declare(strict_types=1);" description="Declare strict types" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
