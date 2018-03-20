@@ -12,7 +12,6 @@
       <mask>tas.xml</mask>
       <mask>task.xml</mask>
       <mask>tasks.xml</mask>
-      <mask>di.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>c</mask>
@@ -34,6 +33,7 @@
       <mask>fieldse.xml</mask>
       <mask>fieldset.xml</mask>
       <mask>header.xml</mask>
+      <mask>di.xml</mask>
     </recentFileMasks>
   </component>
 </application>
