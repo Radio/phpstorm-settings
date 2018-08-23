@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.phtml</mask>
-      <mask>*.php</mask>
-      <mask>*.json</mask>
-      <mask>*.xl</mask>
-      <mask>t.xml</mask>
-      <mask>tas.xml</mask>
-      <mask>task.xml</mask>
-      <mask>tasks.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>c</mask>
-      <mask>com</mask>
-      <mask>compos</mask>
-      <mask>composer</mask>
-      <mask>composer.</mask>
-      <mask>composer.js</mask>
-      <mask>composer.jso</mask>
-      <mask>composer.json</mask>
-      <mask>.</mask>
-      <mask>.x</mask>
-      <mask>*.xml</mask>
-      <mask>.xml</mask>
-      <mask>f.xml</mask>
-      <mask>fie.xml</mask>
-      <mask>field.xml</mask>
-      <mask>fields.xml</mask>
-      <mask>fieldse.xml</mask>
-      <mask>fieldset.xml</mask>
-      <mask>header.xml</mask>
-      <mask>di.xml</mask>
-    </recentFileMasks>
   </component>
 </application>
