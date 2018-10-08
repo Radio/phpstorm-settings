@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="ext_emconf.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,5 +20,6 @@
     <mask>routes.xml</mask>
     <mask>di.xml</mask>
     <mask>*.php</mask>
+    <mask>ext_emconf.php</mask>
   </component>
 </application>
