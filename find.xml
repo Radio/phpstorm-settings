@@ -16,10 +16,10 @@
     <mask>routes.xml</mask>
     <mask>di.xml</mask>
     <mask>ext_emconf.php</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.xlf</mask>
     <mask>*Controller.php</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
