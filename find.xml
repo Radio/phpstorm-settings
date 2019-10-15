@@ -3,24 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
     <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.ts</mask>
-    <mask>*.typoscript</mask>
-    <mask>*.txt</mask>
-    <mask>routes.xml</mask>
-    <mask>di.xml</mask>
-    <mask>ext_emconf.php</mask>
-    <mask>*.xlf</mask>
-    <mask>*Controller.php</mask>
-    <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.html</mask>
+    <mask>*.inc</mask>
+    <mask>*.ctp</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.js</mask>
+    <mask>mysql*.php</mask>
+    <mask>*.phtml</mask>
+    <mask>*.xml</mask>
     <mask>*.php</mask>
-    <mask>tt_content.php</mask>
   </component>
 </application>
