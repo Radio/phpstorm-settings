@@ -23,19 +23,19 @@
     </driver>
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.ase">
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql.8">
       <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
@@ -47,27 +47,16 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.45" />
+      <artifact name="MySQL Connector/J" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <library>
-        <url>file://$USER_HOME$/.WebIde70/config/jdbc-drivers/mysql-connector-license.txt</url>
-      </library>
-      <library>
-        <url>file://$USER_HOME$/.WebIde70/config/jdbc-drivers/mysql-connector-java-5.1.31-bin.jar</url>
-      </library>
     </driver>
     <driver id="mariadb">
-      <artifact name="MariaDB Connector J" use="true" version="2.2.1" />
+      <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="postgresql">
