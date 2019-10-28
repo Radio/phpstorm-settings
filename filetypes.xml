@@ -20,6 +20,7 @@
       <mapping pattern="grunt" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit-phpcs.sh" type="PLAIN_TEXT" />
       <mapping pattern="update.orig" type="PLAIN_TEXT" />
+      <mapping pattern="update.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern="30" type="PLAIN_TEXT" />
       <mapping pattern=".qgignore" type="PLAIN_TEXT" />
@@ -28,14 +29,13 @@
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="UriViewHelper" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
-      <mapping pattern="tx_ttnews_helpers" type="PLAIN_TEXT" />
       <mapping pattern=".pkgignore" type="PLAIN_TEXT" />
+      <mapping pattern="tx_ttnews_helpers" type="PLAIN_TEXT" />
       <mapping pattern="InvalidStateException" type="PLAIN_TEXT" />
       <mapping pattern=".keepme" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="update.local" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping pattern="update.gitlab" type="PLAIN_TEXT" />
       <mapping pattern=".autorun" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
@@ -54,8 +54,6 @@
       <mapping ext="xlf" type="XML" />
       <mapping pattern=".qgrc" type="YAML" />
       <mapping ext="example" type="YAML" />
-      <mapping pattern="*/sites-enabled/api-01" type="nginx" />
-      <mapping pattern="node-01" type="nginx" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sites-enabled/node-01" approved="true" type="nginx" />
       <removed_mapping pattern="*sites-enabled/node-01" approved="true" type="nginx" />
@@ -63,7 +61,9 @@
       <removed_mapping pattern="crontab/richandroyal" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="py" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="*/sites-enabled/api-01" approved="true" type="nginx" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="node-01" approved="true" type="nginx" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
