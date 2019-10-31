@@ -67,4 +67,14 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="bfs" value="$blackfire = new \Blackfire\Client();&#10;$probe = $blackfire-&gt;createProbe();" description="Blackfire: start profiling" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bff" value="$blackfire-&gt;endProbe($probe);" description="Blackfire: finish profiling" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
