@@ -8,7 +8,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
     <pattern icon="important" pattern="\btodo:\s+(dev-)?15988\b.*" />
-    <filter name="dev-15605">
+    <filter name="dev-15988">
       <pattern index="1" />
     </filter>
   </component>
