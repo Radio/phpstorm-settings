@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
   <action id="EmojiAndSymbols" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl meta space" />
