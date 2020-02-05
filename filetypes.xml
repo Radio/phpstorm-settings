@@ -38,6 +38,7 @@
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern=".ignoremodules" type="PLAIN_TEXT" />
       <mapping pattern="richandroyal" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="30" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
