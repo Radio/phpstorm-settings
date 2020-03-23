@@ -41,14 +41,16 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="30" type="PLAIN_TEXT" />
-      <mapping ext="sxw" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="tree" type="PLAIN_TEXT" />
       <mapping ext="keepme" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="webm" type="PLAIN_TEXT" />
+      <mapping ext="sxw" type="PLAIN_TEXT" />
+      <mapping ext="tree" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="jtl" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="lock1" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
