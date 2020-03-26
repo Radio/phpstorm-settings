@@ -13,7 +13,6 @@
       <mapping ext="bson" type="JSON" />
       <mapping pattern="bot" type="JavaScript" />
       <mapping pattern="Taskfile" type="PHP" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="tx_symmetrics_cache" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
@@ -28,6 +27,7 @@
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern=".qgignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="tx_symmetrics_variable_cache" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
