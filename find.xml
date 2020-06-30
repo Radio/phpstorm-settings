@@ -18,5 +18,6 @@
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>service.yaml</mask>
   </component>
 </application>
