@@ -3,52 +3,52 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="ms" type="HTML" />
-      <mapping pattern=".eslintrc-reset" type="JSON" />
-      <mapping pattern=".jscsrc-magento" type="JSON" />
       <mapping pattern=".eslintrc-symmetrics" type="JSON" />
+      <mapping pattern=".jscsrc-magento" type="JSON" />
+      <mapping pattern=".eslintrc-reset" type="JSON" />
       <mapping pattern=".eslintrc-magento" type="JSON" />
       <mapping ext="bson" type="JSON" />
       <mapping pattern="bot" type="JavaScript" />
       <mapping pattern="Taskfile" type="PHP" />
-      <mapping pattern=".keepme" type="PLAIN_TEXT" />
-      <mapping pattern="update.gitlab" type="PLAIN_TEXT" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
-      <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
-      <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
-      <mapping pattern="grunt" type="PLAIN_TEXT" />
-      <mapping pattern="update.orig" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="InvalidStateException" type="PLAIN_TEXT" />
-      <mapping pattern="richandroyal" type="PLAIN_TEXT" />
-      <mapping pattern="tx_symmetrics_cache" type="PLAIN_TEXT" />
-      <mapping pattern=".qgignore" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit-phpcs.sh" type="PLAIN_TEXT" />
-      <mapping pattern="update.local" type="PLAIN_TEXT" />
-      <mapping pattern="30" type="PLAIN_TEXT" />
-      <mapping pattern="tx_ttnews_helpers" type="PLAIN_TEXT" />
-      <mapping pattern="modman" type="PLAIN_TEXT" />
-      <mapping pattern="0" type="PLAIN_TEXT" />
-      <mapping pattern="UriViewHelper" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern=".ignoremodules" type="PLAIN_TEXT" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
-      <mapping pattern=".pkgignore" type="PLAIN_TEXT" />
-      <mapping pattern=".autorun" type="PLAIN_TEXT" />
       <mapping pattern="tx_symmetrics_variable_cache" type="PLAIN_TEXT" />
-      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
+      <mapping pattern="update.orig" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping pattern=".pkgignore" type="PLAIN_TEXT" />
+      <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
+      <mapping pattern="modman" type="PLAIN_TEXT" />
+      <mapping pattern="update.local" type="PLAIN_TEXT" />
+      <mapping pattern="tx_ttnews_helpers" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="UriViewHelper" type="PLAIN_TEXT" />
+      <mapping pattern=".autorun" type="PLAIN_TEXT" />
+      <mapping pattern=".ignoremodules" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit-phpcs.sh" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="update.gitlab" type="PLAIN_TEXT" />
+      <mapping pattern="tx_symmetrics_cache" type="PLAIN_TEXT" />
+      <mapping pattern="richandroyal" type="PLAIN_TEXT" />
+      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
+      <mapping pattern=".keepme" type="PLAIN_TEXT" />
+      <mapping pattern="30" type="PLAIN_TEXT" />
+      <mapping pattern=".qgignore" type="PLAIN_TEXT" />
+      <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern="InvalidStateException" type="PLAIN_TEXT" />
+      <mapping pattern="grunt" type="PLAIN_TEXT" />
+      <mapping ext="jtl" type="PLAIN_TEXT" />
+      <mapping ext="lock1" type="PLAIN_TEXT" />
+      <mapping ext="tree" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
-      <mapping ext="webm" type="PLAIN_TEXT" />
-      <mapping ext="sxw" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="keepme" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="tree" type="PLAIN_TEXT" />
-      <mapping ext="jtl" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="lock1" type="PLAIN_TEXT" />
+      <mapping ext="webm" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="sxw" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Shell Script" />
