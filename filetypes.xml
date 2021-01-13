@@ -14,8 +14,8 @@
       <mapping pattern="tx_symmetrics_variable_cache" type="PLAIN_TEXT" />
       <mapping pattern="update.orig" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".pkgignore" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping pattern=".pkgignore" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern="update.local" type="PLAIN_TEXT" />
