@@ -15,9 +15,9 @@
     <mask>mysql*.php</mask>
     <mask>js.js</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>service.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
