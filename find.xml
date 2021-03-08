@@ -20,5 +20,7 @@
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>Dockerfile</mask>
+    <mask>*.ts(x)</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
