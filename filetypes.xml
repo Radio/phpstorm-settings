@@ -34,6 +34,7 @@
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern=".keepme" type="PLAIN_TEXT" />
       <mapping pattern="30" type="PLAIN_TEXT" />
+      <mapping pattern="metrics" type="PLAIN_TEXT" />
       <mapping pattern=".qgignore" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="InvalidStateException" type="PLAIN_TEXT" />
