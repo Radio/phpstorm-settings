@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.inc</mask>
@@ -16,7 +17,6 @@
     <mask>js.js</mask>
     <mask>*.js</mask>
     <mask>service.yaml</mask>
-    <mask>*.phtml</mask>
     <mask>*.xml</mask>
     <mask>Dockerfile</mask>
     <mask>*.ts(x)</mask>
@@ -25,5 +25,6 @@
     <mask>system.xml</mask>
     <mask>*.tsx</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
