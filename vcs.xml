@@ -26,7 +26,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Projects/Jsmd/Springfield/widgets" />
+    <option name="PATCH_STORAGE_LOCATION" value="/" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
