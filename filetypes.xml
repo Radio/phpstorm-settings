@@ -37,6 +37,7 @@
       <mapping pattern="metrics" type="PLAIN_TEXT" />
       <mapping pattern=".qgignore" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="InvalidStateException" type="PLAIN_TEXT" />
       <mapping pattern="grunt" type="PLAIN_TEXT" />
       <mapping ext="jtl" type="PLAIN_TEXT" />
