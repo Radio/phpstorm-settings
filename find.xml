@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.html</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
@@ -27,5 +27,6 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.dto.ts</mask>
+    <mask>*.css</mask>
   </component>
 </application>
