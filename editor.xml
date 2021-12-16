@@ -3,12 +3,6 @@
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Fira Code Retina" />
-    <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
