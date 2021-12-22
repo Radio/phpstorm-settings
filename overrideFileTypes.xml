@@ -1,0 +1,7 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Projects/Jsmd/Regiondo/regiondo/app/design/frontend/regiondo/default/template/resellers/account/availabilities/table.phtml" />
+    <file url="file://$USER_HOME$/Projects/Jsmd/Regiondo/regiondo/app/design/frontend/regiondo/default/template/resellers/account/bookings/popup.phtml" />
+    <file url="file://$USER_HOME$/Projects/Jsmd/Regiondo/regiondo/skin/frontend/regiondo/default/js/reseller/offline-bookings.js" />
+  </component>
+</application>
