@@ -4,14 +4,6 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="error" value="var $VAR_NAME$ = new Error('$MESSAGE$');&#10;$VAR_NAME$.status = $STATUS$;" description="Error object" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR_NAME" expression="" defaultValue="&quot;error&quot;" alwaysStopAt="true" />
-    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="STATUS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
   <template name="inj" value="/* @ngInject */" description="ngInject comment." toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
