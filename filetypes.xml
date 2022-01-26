@@ -19,6 +19,7 @@
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="docker/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="tx_symmetrics_cache" type="PLAIN_TEXT" />
+      <mapping pattern=".prod" type="PLAIN_TEXT" />
       <mapping pattern="metrics" type="PLAIN_TEXT" />
       <mapping pattern="UriViewHelper" type="PLAIN_TEXT" />
       <mapping pattern=".keepme" type="PLAIN_TEXT" />
