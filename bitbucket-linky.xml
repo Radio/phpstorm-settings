@@ -12,4 +12,18 @@
     </lookup>
   </component>
   <component name="Instance" id="ddd50264-e85f-4b59-acda-f348f62ea8fb" version="2021.3.195" />
+  <component name="UsageLog">
+    <event name="CopyLinkToFile" place="EditorTabPopup" timestamp="2022-06-21T10:10:12.049997Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="OpenFile" place="EditorTabPopup" timestamp="2022-06-21T10:10:15.398198Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
+  </component>
 </application>
