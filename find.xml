@@ -23,10 +23,10 @@
     <mask>*.ts</mask>
     <mask>system.xml</mask>
     <mask>config.xml</mask>
-    <mask>*.phtml</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.tsx</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
