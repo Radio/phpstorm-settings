@@ -11,5 +11,5 @@
       <record scheme="ssh" hostname="bitbucket.jsmd-group.com" port="7999" path="/" uuid="7a8aa261-24ab-3fb0-ad46-4bff5c7766c1" />
     </lookup>
   </component>
-  <component name="Instance" id="ddd50264-e85f-4b59-acda-f348f62ea8fb" version="2021.3.195" />
+  <component name="Instance" id="ddd50264-e85f-4b59-acda-f348f62ea8fb" version="2020.3.206" />
 </application>
