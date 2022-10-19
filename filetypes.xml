@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="links" type="AUTO_DETECTED" />
       <mapping pattern="Jesnkinsfile" type="AUTO_DETECTED" />
+      <mapping ext="groovy" type="AUTO_DETECTED" />
       <mapping ext="ms" type="HTML" />
       <mapping pattern=".eslintrc-magento" type="JSON" />
       <mapping pattern=".eslintrc-symmetrics" type="JSON" />
