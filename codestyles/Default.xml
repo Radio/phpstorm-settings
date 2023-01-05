@@ -2,6 +2,12 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="COMMA_AFTER_LAST_PARAMETER" value="true" />
+    <option name="COMMA_AFTER_LAST_CLOSURE_USE_VAR" value="true" />
+    <option name="COMMA_AFTER_LAST_ARGUMENT" value="true" />
+  </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
@@ -26,6 +32,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
