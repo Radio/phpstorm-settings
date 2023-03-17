@@ -31,5 +31,6 @@
     <mask>*.php</mask>
     <mask>*.json</mask>
     <mask>*.yaml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
